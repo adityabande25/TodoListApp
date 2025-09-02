@@ -4,7 +4,7 @@ A simple console-based To-Do List application written in Java. This project allo
 
 ## Features
 
-- Add new tasks to your to-do list
+- Add new tasks to your to-do list.
 - View all current tasks
 - Remove completed or unwanted tasks
 - User-friendly menu navigation
