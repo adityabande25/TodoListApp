@@ -34,5 +34,5 @@ A simple console-based To-Do List application written in Java. This project allo
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).# TodoListApp
+This project is open-source and available under the [MIT License](LICENSE). TodoListApp
 A simple Java console application to manage your daily tasks. Add, view, and remove to-do items easily using a user-friendly menu.
