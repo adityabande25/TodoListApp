@@ -78,4 +78,5 @@ public class TodoListApp {
         scanner.nextLine(); // Consume the newline
         return num;
     }
+}
 
